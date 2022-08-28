@@ -4,13 +4,13 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "",
+    APP_ID: "wxbc9f6ca3b61a6c92",
     // 公众号APP_SECRET
-    APP_SECRET: "",
+    APP_SECRET: "a0af75b0716087fb8208bcfeb6468e64",
     // 模板消息id
-    TEMPLATE_ID: "",
+    TEMPLATE_ID: "Tj_gYTlvC5iF-_4cjTV86QAVK_GKAKe2x7FFfLNPEm8",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-    USERS: [""],
+    USERS: ["orFyd6Q-iUMOWEQpGA2xf9KYuvxY"],
      
     /**
      * 信息配置
@@ -19,24 +19,24 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "广东",
+    PROVINCE: "重庆",
     // 所在城市
-    CITY: "惠州",
+    CITY: "开州",
 
     /** 生日相关 */
 
     // 生日，修改名字为对应需要显示的名字, data 仅填月日即可, 请严格按照示例填写
     BIRTHDAYS: [
-      {"name": "老婆", "year": "1993", "date": "12-27"},
-      {"name": "家公", "year": "1993", "date": "08-09"},
+      {"name": "小徐", "year": "2004", "date": "03-22"},
+      {"name": "小宇", "year": "2001", "date": "07-20"},
     ],
 
     /** 日期相关 */
 
     // 在一起的日子，格式同上
-    LOVE_DATE: "2015-05-01",
+    LOVE_DATE: "2021-08-01",
     // 结婚纪念日
-    MARRY_DATE: "2020-01-04",
+    // MARRY_DATE: "2020-01-04",
 
 
     /** 好文节选 */
@@ -44,7 +44,9 @@ export const config = {
     // 好文节选的内容类型
     // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
     LITERARY_PREFERENCE: ""
-
+    
+    今天也要元气满满的哦！
+    加油乖乖，你是最棒的！
 
     }
 
