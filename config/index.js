@@ -19,7 +19,7 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "重庆",
+    PROVINCE: "重庆市",
     // 所在城市
     CITY: "开县",
 
