@@ -8,7 +8,7 @@ export const config = {
     // 公众号APP_SECRET
     APP_SECRET: "a0af75b0716087fb8208bcfeb6468e64",
     // 模板消息id
-    TEMPLATE_ID: "Tj_gYTlvC5iF-_4cjTV86QAVK_GKAKe2x7FFfLNPEm8",
+    TEMPLATE_ID: "mUSiVBThQT2414rfacbFDXrCgIP5RwKZHy0oEEr0W_k",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
     USERS: ["orFyd6Q-iUMOWEQpGA2xf9KYuvxY"],
      
@@ -21,7 +21,7 @@ export const config = {
     // 所在省份
     PROVINCE: "重庆",
     // 所在城市
-    CITY: "开州",
+    CITY: "开县",
 
     /** 生日相关 */
 
