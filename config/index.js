@@ -21,7 +21,7 @@ export const config = {
     // 所在省份
     PROVINCE: "重庆",
     // 所在城市
-    CITY: "永川",
+    CITY: "重庆",
 
     /** 生日相关 */
 
